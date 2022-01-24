@@ -27,7 +27,7 @@ If you have any questions please email developers@lifestoreshealthcare.com
 ##### Test:
 Given the Product data below: 
 
-'''
+```
 [
     {
         "name":"Paracetamol",
@@ -58,7 +58,7 @@ Given the Product data below:
         "image":"https://www.m-medix.com/2677-large_default/dr-meyers-coflin-expectorant-100ml.jpg"
     }
 ]
-'''
+```
 
 Using Python, Graphene, Docker, etc.
 a) Create a Product model
